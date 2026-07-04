@@ -1,0 +1,682 @@
+id;Competency Level;High-Potential Talent;Job-Ready Talent;Jumlah Skill;Jumlah Motivasi;Bukan Mahasiswa
+1;Emerging Talent;0;0;2;3;Mahasiswa
+2;Job-Ready Talent;0;1;4;4;Mahasiswa
+3;High-Potential Talent;1;0;5;3;Mahasiswa
+4;Emerging Talent;0;0;2;1;Mahasiswa
+5;High-Potential Talent;1;0;7;3;Non Mahasiswa
+6;Job-Ready Talent;0;1;4;2;Mahasiswa
+7;High-Potential Talent;1;0;7;4;Non Mahasiswa
+8;High-Potential Talent;1;0;6;3;Mahasiswa
+9;High-Potential Talent;1;0;7;2;Non Mahasiswa
+10;High-Potential Talent;1;0;6;4;Non Mahasiswa
+11;High-Potential Talent;1;0;6;1;Mahasiswa
+12;High-Potential Talent;1;0;7;3;Mahasiswa
+13;High-Potential Talent;1;0;5;1;Mahasiswa
+14;Job-Ready Talent;0;1;4;2;Non Mahasiswa
+15;High-Potential Talent;1;0;7;4;Non Mahasiswa
+16;High-Potential Talent;1;0;5;2;Non Mahasiswa
+17;High-Potential Talent;1;0;7;4;Non Mahasiswa
+18;High-Potential Talent;1;0;5;3;Mahasiswa
+19;High-Potential Talent;1;0;7;3;Mahasiswa
+20;Job-Ready Talent;0;1;4;2;Mahasiswa
+21;Job-Ready Talent;0;1;3;2;Mahasiswa
+22;High-Potential Talent;1;0;7;3;Non Mahasiswa
+23;High-Potential Talent;1;0;7;2;Mahasiswa
+24;High-Potential Talent;1;0;5;1;Non Mahasiswa
+25;High-Potential Talent;1;0;5;1;Non Mahasiswa
+26;Job-Ready Talent;0;1;3;2;Non Mahasiswa
+27;High-Potential Talent;1;0;5;4;Mahasiswa
+28;Job-Ready Talent;0;1;4;3;Mahasiswa
+29;High-Potential Talent;1;0;5;1;Mahasiswa
+30;Emerging Talent;0;0;1;4;Non Mahasiswa
+31;Job-Ready Talent;0;1;4;4;Mahasiswa
+32;Job-Ready Talent;0;1;4;4;Non Mahasiswa
+33;Job-Ready Talent;0;1;3;1;Non Mahasiswa
+34;High-Potential Talent;1;0;5;2;Non Mahasiswa
+35;Job-Ready Talent;0;1;4;3;Non Mahasiswa
+36;High-Potential Talent;1;0;6;4;Non Mahasiswa
+37;Job-Ready Talent;0;1;3;4;Mahasiswa
+38;High-Potential Talent;1;0;7;3;Mahasiswa
+39;High-Potential Talent;1;0;6;1;Non Mahasiswa
+40;High-Potential Talent;1;0;7;4;Non Mahasiswa
+41;Job-Ready Talent;0;1;3;3;Non Mahasiswa
+42;High-Potential Talent;1;0;7;3;Mahasiswa
+43;High-Potential Talent;1;0;5;3;Non Mahasiswa
+44;High-Potential Talent;1;0;7;3;Non Mahasiswa
+45;High-Potential Talent;1;0;7;3;Mahasiswa
+46;High-Potential Talent;1;0;6;3;Non Mahasiswa
+47;High-Potential Talent;1;0;7;4;Mahasiswa
+48;Emerging Talent;0;0;2;3;Mahasiswa
+49;Job-Ready Talent;0;1;4;1;Mahasiswa
+50;Job-Ready Talent;0;1;3;2;Mahasiswa
+51;High-Potential Talent;1;0;7;2;Mahasiswa
+52;High-Potential Talent;1;0;7;3;Mahasiswa
+53;High-Potential Talent;1;0;7;3;Non Mahasiswa
+54;Job-Ready Talent;0;1;3;3;Mahasiswa
+55;Emerging Talent;0;0;1;3;Non Mahasiswa
+56;Job-Ready Talent;0;1;4;1;Mahasiswa
+57;High-Potential Talent;1;0;5;3;Mahasiswa
+58;High-Potential Talent;1;0;5;1;Non Mahasiswa
+59;Emerging Talent;0;0;0;3;Non Mahasiswa
+60;Emerging Talent;0;0;0;2;Non Mahasiswa
+61;Emerging Talent;0;0;1;1;Non Mahasiswa
+62;Job-Ready Talent;0;1;3;1;Non Mahasiswa
+63;High-Potential Talent;1;0;5;2;Non Mahasiswa
+64;High-Potential Talent;1;0;5;4;Mahasiswa
+65;Job-Ready Talent;0;1;4;4;Mahasiswa
+66;High-Potential Talent;1;0;6;3;Mahasiswa
+67;High-Potential Talent;1;0;7;3;Mahasiswa
+68;Job-Ready Talent;0;1;4;2;Non Mahasiswa
+69;Job-Ready Talent;0;1;4;2;Non Mahasiswa
+70;High-Potential Talent;1;0;5;2;Mahasiswa
+71;High-Potential Talent;1;0;5;4;Non Mahasiswa
+72;Job-Ready Talent;0;1;4;2;Mahasiswa
+73;Job-Ready Talent;0;1;4;3;Non Mahasiswa
+74;Job-Ready Talent;0;1;4;2;Non Mahasiswa
+75;Emerging Talent;0;0;2;1;Non Mahasiswa
+76;High-Potential Talent;1;0;7;3;Mahasiswa
+77;High-Potential Talent;1;0;5;1;Non Mahasiswa
+78;High-Potential Talent;1;0;7;3;Mahasiswa
+79;High-Potential Talent;1;0;6;3;Mahasiswa
+80;High-Potential Talent;1;0;6;3;Non Mahasiswa
+81;High-Potential Talent;1;0;7;4;Non Mahasiswa
+82;Job-Ready Talent;0;1;4;1;Non Mahasiswa
+83;High-Potential Talent;1;0;5;2;Mahasiswa
+84;Job-Ready Talent;0;1;3;2;Mahasiswa
+85;High-Potential Talent;1;0;5;2;Mahasiswa
+86;Job-Ready Talent;0;1;3;1;Non Mahasiswa
+87;High-Potential Talent;1;0;5;3;Non Mahasiswa
+88;High-Potential Talent;1;0;7;3;Mahasiswa
+89;Job-Ready Talent;0;1;4;3;Mahasiswa
+90;High-Potential Talent;1;0;7;4;Non Mahasiswa
+91;High-Potential Talent;1;0;7;3;Mahasiswa
+92;High-Potential Talent;1;0;7;2;Mahasiswa
+93;Job-Ready Talent;0;1;4;2;Mahasiswa
+94;High-Potential Talent;1;0;7;3;Mahasiswa
+95;High-Potential Talent;1;0;7;3;Mahasiswa
+96;Job-Ready Talent;0;1;3;2;Non Mahasiswa
+97;Job-Ready Talent;0;1;4;2;Non Mahasiswa
+98;Job-Ready Talent;0;1;4;2;Mahasiswa
+99;High-Potential Talent;1;0;5;2;Mahasiswa
+100;Job-Ready Talent;0;1;4;1;Non Mahasiswa
+101;Job-Ready Talent;0;1;3;2;Non Mahasiswa
+102;Job-Ready Talent;0;1;3;2;Non Mahasiswa
+103;Job-Ready Talent;0;1;4;3;Mahasiswa
+104;High-Potential Talent;1;0;7;3;Mahasiswa
+105;High-Potential Talent;1;0;6;4;Mahasiswa
+106;High-Potential Talent;1;0;7;4;Non Mahasiswa
+107;High-Potential Talent;1;0;7;4;Non Mahasiswa
+108;High-Potential Talent;1;0;7;3;Mahasiswa
+109;High-Potential Talent;1;0;7;3;Mahasiswa
+110;Job-Ready Talent;0;1;4;2;Mahasiswa
+111;Job-Ready Talent;0;1;4;3;Mahasiswa
+112;High-Potential Talent;1;0;7;4;Non Mahasiswa
+113;Job-Ready Talent;0;1;3;2;Non Mahasiswa
+114;High-Potential Talent;1;0;7;2;Mahasiswa
+115;Job-Ready Talent;0;1;3;3;Mahasiswa
+116;Emerging Talent;0;0;2;2;Non Mahasiswa
+117;High-Potential Talent;1;0;7;3;Mahasiswa
+118;High-Potential Talent;1;0;7;3;Mahasiswa
+119;High-Potential Talent;1;0;7;1;Mahasiswa
+120;High-Potential Talent;1;0;5;2;Mahasiswa
+121;Job-Ready Talent;0;1;4;1;Non Mahasiswa
+122;Job-Ready Talent;0;1;3;4;Non Mahasiswa
+123;High-Potential Talent;1;0;6;3;Mahasiswa
+124;High-Potential Talent;1;0;7;4;Non Mahasiswa
+125;Job-Ready Talent;0;1;3;2;Non Mahasiswa
+126;Job-Ready Talent;0;1;3;2;Non Mahasiswa
+127;High-Potential Talent;1;0;7;2;Non Mahasiswa
+128;High-Potential Talent;1;0;7;1;Non Mahasiswa
+129;High-Potential Talent;1;0;7;3;Mahasiswa
+130;Job-Ready Talent;0;1;4;1;Mahasiswa
+131;High-Potential Talent;1;0;7;3;Mahasiswa
+132;High-Potential Talent;1;0;7;2;Mahasiswa
+133;High-Potential Talent;1;0;6;3;Mahasiswa
+134;Job-Ready Talent;0;1;3;2;Non Mahasiswa
+135;Emerging Talent;0;0;2;2;Mahasiswa
+136;High-Potential Talent;1;0;6;3;Mahasiswa
+137;High-Potential Talent;1;0;7;4;Mahasiswa
+138;Job-Ready Talent;0;1;3;3;Mahasiswa
+139;Job-Ready Talent;0;1;4;2;Mahasiswa
+140;Job-Ready Talent;0;1;3;4;Non Mahasiswa
+141;High-Potential Talent;1;0;7;4;Mahasiswa
+142;High-Potential Talent;1;0;5;4;Non Mahasiswa
+143;Emerging Talent;0;0;1;3;Mahasiswa
+144;High-Potential Talent;1;0;7;3;Mahasiswa
+145;Emerging Talent;0;0;1;3;Mahasiswa
+146;High-Potential Talent;1;0;7;4;Mahasiswa
+147;High-Potential Talent;1;0;6;2;Mahasiswa
+148;High-Potential Talent;1;0;5;4;Non Mahasiswa
+149;Job-Ready Talent;0;1;4;2;Mahasiswa
+150;High-Potential Talent;1;0;7;3;Mahasiswa
+151;High-Potential Talent;1;0;5;3;Non Mahasiswa
+152;High-Potential Talent;1;0;7;3;Non Mahasiswa
+153;High-Potential Talent;1;0;7;3;Mahasiswa
+154;Emerging Talent;0;0;1;1;Mahasiswa
+155;Job-Ready Talent;0;1;4;3;Mahasiswa
+156;Emerging Talent;0;0;2;3;Mahasiswa
+157;Job-Ready Talent;0;1;3;3;Mahasiswa
+158;High-Potential Talent;1;0;5;3;Non Mahasiswa
+159;Emerging Talent;0;0;1;1;Mahasiswa
+160;High-Potential Talent;1;0;6;3;Non Mahasiswa
+161;High-Potential Talent;1;0;7;4;Non Mahasiswa
+162;Emerging Talent;0;0;2;2;Non Mahasiswa
+163;High-Potential Talent;1;0;7;2;Non Mahasiswa
+164;Job-Ready Talent;0;1;4;2;Non Mahasiswa
+165;Job-Ready Talent;0;1;4;3;Mahasiswa
+166;Job-Ready Talent;0;1;3;3;Non Mahasiswa
+167;Job-Ready Talent;0;1;4;3;Mahasiswa
+168;High-Potential Talent;1;0;7;3;Mahasiswa
+169;High-Potential Talent;1;0;5;3;Mahasiswa
+170;High-Potential Talent;1;0;7;3;Mahasiswa
+171;High-Potential Talent;1;0;7;4;Mahasiswa
+172;High-Potential Talent;1;0;7;1;Non Mahasiswa
+173;High-Potential Talent;1;0;5;1;Mahasiswa
+174;High-Potential Talent;1;0;7;4;Mahasiswa
+175;High-Potential Talent;1;0;7;3;Non Mahasiswa
+176;High-Potential Talent;1;0;5;1;Non Mahasiswa
+177;High-Potential Talent;1;0;7;1;Non Mahasiswa
+178;Job-Ready Talent;0;1;3;2;Mahasiswa
+179;High-Potential Talent;1;0;7;3;Non Mahasiswa
+180;High-Potential Talent;1;0;6;2;Mahasiswa
+181;Job-Ready Talent;0;1;3;2;Mahasiswa
+182;High-Potential Talent;1;0;6;3;Mahasiswa
+183;Job-Ready Talent;0;1;3;4;Mahasiswa
+184;High-Potential Talent;1;0;7;1;Mahasiswa
+185;High-Potential Talent;1;0;7;2;Mahasiswa
+186;High-Potential Talent;1;0;7;3;Mahasiswa
+187;High-Potential Talent;1;0;7;4;Non Mahasiswa
+188;Job-Ready Talent;0;1;4;3;Non Mahasiswa
+189;Job-Ready Talent;0;1;3;2;Non Mahasiswa
+190;High-Potential Talent;1;0;6;4;Mahasiswa
+191;Job-Ready Talent;0;1;4;1;Mahasiswa
+192;Emerging Talent;0;0;1;3;Mahasiswa
+193;High-Potential Talent;1;0;5;3;Non Mahasiswa
+194;High-Potential Talent;1;0;7;4;Mahasiswa
+195;High-Potential Talent;1;0;7;2;Mahasiswa
+196;High-Potential Talent;1;0;5;1;Mahasiswa
+197;Emerging Talent;0;0;2;2;Mahasiswa
+198;High-Potential Talent;1;0;7;3;Mahasiswa
+199;Job-Ready Talent;0;1;3;2;Non Mahasiswa
+200;High-Potential Talent;1;0;6;4;Non Mahasiswa
+201;High-Potential Talent;1;0;6;1;Mahasiswa
+202;Job-Ready Talent;0;1;4;3;Non Mahasiswa
+203;High-Potential Talent;1;0;7;1;Mahasiswa
+204;Job-Ready Talent;0;1;3;2;Mahasiswa
+205;High-Potential Talent;1;0;7;4;Mahasiswa
+206;High-Potential Talent;1;0;7;4;Non Mahasiswa
+207;Job-Ready Talent;0;1;3;2;Mahasiswa
+208;Job-Ready Talent;0;1;3;3;Non Mahasiswa
+209;High-Potential Talent;1;0;5;4;Mahasiswa
+210;Job-Ready Talent;0;1;3;3;Non Mahasiswa
+211;Job-Ready Talent;0;1;3;2;Mahasiswa
+212;Emerging Talent;0;0;2;4;Mahasiswa
+213;Job-Ready Talent;0;1;4;3;Mahasiswa
+214;High-Potential Talent;1;0;7;4;Non Mahasiswa
+215;High-Potential Talent;1;0;7;3;Mahasiswa
+216;High-Potential Talent;1;0;7;4;Mahasiswa
+217;High-Potential Talent;1;0;7;4;Mahasiswa
+218;Emerging Talent;0;0;1;1;Mahasiswa
+219;Job-Ready Talent;0;1;3;1;Mahasiswa
+220;Emerging Talent;0;0;0;2;Non Mahasiswa
+221;Job-Ready Talent;0;1;3;2;Non Mahasiswa
+222;High-Potential Talent;1;0;6;2;Mahasiswa
+223;Emerging Talent;0;0;1;2;Non Mahasiswa
+224;High-Potential Talent;1;0;7;4;Non Mahasiswa
+225;Job-Ready Talent;0;1;4;2;Mahasiswa
+226;Emerging Talent;0;0;1;1;Non Mahasiswa
+227;High-Potential Talent;1;0;7;1;Mahasiswa
+228;High-Potential Talent;1;0;7;4;Mahasiswa
+229;High-Potential Talent;1;0;5;3;Non Mahasiswa
+230;High-Potential Talent;1;0;7;4;Mahasiswa
+231;Job-Ready Talent;0;1;3;4;Non Mahasiswa
+232;High-Potential Talent;1;0;5;2;Mahasiswa
+233;High-Potential Talent;1;0;5;4;Non Mahasiswa
+234;High-Potential Talent;1;0;7;4;Non Mahasiswa
+235;High-Potential Talent;1;0;7;3;Mahasiswa
+236;Job-Ready Talent;0;1;3;4;Mahasiswa
+237;High-Potential Talent;1;0;7;3;Mahasiswa
+238;Job-Ready Talent;0;1;3;4;Mahasiswa
+239;Job-Ready Talent;0;1;4;3;Non Mahasiswa
+240;High-Potential Talent;1;0;7;3;Non Mahasiswa
+241;Job-Ready Talent;0;1;3;2;Mahasiswa
+242;Job-Ready Talent;0;1;4;3;Mahasiswa
+243;High-Potential Talent;1;0;7;3;Mahasiswa
+244;High-Potential Talent;1;0;6;3;Mahasiswa
+245;Job-Ready Talent;0;1;4;2;Non Mahasiswa
+246;High-Potential Talent;1;0;7;3;Mahasiswa
+247;Job-Ready Talent;0;1;3;2;Mahasiswa
+248;High-Potential Talent;1;0;7;3;Mahasiswa
+249;High-Potential Talent;1;0;7;3;Mahasiswa
+250;Job-Ready Talent;0;1;4;1;Mahasiswa
+251;High-Potential Talent;1;0;7;2;Mahasiswa
+252;High-Potential Talent;1;0;5;3;Mahasiswa
+253;High-Potential Talent;1;0;7;1;Non Mahasiswa
+254;High-Potential Talent;1;0;6;1;Non Mahasiswa
+255;High-Potential Talent;1;0;7;3;Mahasiswa
+256;High-Potential Talent;1;0;6;3;Mahasiswa
+257;High-Potential Talent;1;0;7;3;Mahasiswa
+258;High-Potential Talent;1;0;7;2;Non Mahasiswa
+259;High-Potential Talent;1;0;5;4;Non Mahasiswa
+260;High-Potential Talent;1;0;6;2;Mahasiswa
+261;High-Potential Talent;1;0;7;4;Non Mahasiswa
+262;Job-Ready Talent;0;1;4;2;Mahasiswa
+263;Job-Ready Talent;0;1;4;4;Non Mahasiswa
+264;High-Potential Talent;1;0;7;1;Mahasiswa
+265;High-Potential Talent;1;0;5;4;Non Mahasiswa
+266;High-Potential Talent;1;0;5;2;Mahasiswa
+267;Job-Ready Talent;0;1;4;3;Non Mahasiswa
+268;Emerging Talent;0;0;1;2;Mahasiswa
+269;High-Potential Talent;1;0;7;3;Mahasiswa
+270;Emerging Talent;0;0;0;2;Non Mahasiswa
+271;Emerging Talent;0;0;2;2;Non Mahasiswa
+272;High-Potential Talent;1;0;6;3;Mahasiswa
+273;Job-Ready Talent;0;1;3;1;Non Mahasiswa
+274;High-Potential Talent;1;0;7;4;Mahasiswa
+275;High-Potential Talent;1;0;6;2;Non Mahasiswa
+276;High-Potential Talent;1;0;7;3;Mahasiswa
+277;High-Potential Talent;1;0;7;4;Non Mahasiswa
+278;High-Potential Talent;1;0;5;4;Non Mahasiswa
+279;Emerging Talent;0;0;1;1;Mahasiswa
+280;High-Potential Talent;1;0;7;3;Non Mahasiswa
+281;Emerging Talent;0;0;2;2;Non Mahasiswa
+282;High-Potential Talent;1;0;5;1;Mahasiswa
+283;High-Potential Talent;1;0;7;3;Non Mahasiswa
+284;High-Potential Talent;1;0;6;3;Mahasiswa
+285;High-Potential Talent;1;0;6;2;Mahasiswa
+286;High-Potential Talent;1;0;7;3;Mahasiswa
+287;High-Potential Talent;1;0;5;1;Non Mahasiswa
+288;High-Potential Talent;1;0;7;4;Non Mahasiswa
+289;High-Potential Talent;1;0;7;3;Non Mahasiswa
+290;High-Potential Talent;1;0;7;3;Non Mahasiswa
+291;Job-Ready Talent;0;1;4;2;Mahasiswa
+292;High-Potential Talent;1;0;5;3;Mahasiswa
+293;High-Potential Talent;1;0;5;3;Non Mahasiswa
+294;Job-Ready Talent;0;1;4;2;Non Mahasiswa
+295;High-Potential Talent;1;0;7;3;Non Mahasiswa
+296;Emerging Talent;0;0;2;1;Mahasiswa
+297;Job-Ready Talent;0;1;4;2;Mahasiswa
+298;High-Potential Talent;1;0;6;4;Non Mahasiswa
+299;High-Potential Talent;1;0;5;1;Non Mahasiswa
+300;High-Potential Talent;1;0;5;3;Mahasiswa
+301;High-Potential Talent;1;0;5;3;Non Mahasiswa
+302;High-Potential Talent;1;0;7;3;Mahasiswa
+303;High-Potential Talent;1;0;7;2;Non Mahasiswa
+304;High-Potential Talent;1;0;5;2;Non Mahasiswa
+305;Job-Ready Talent;0;1;3;1;Non Mahasiswa
+306;Emerging Talent;0;0;2;2;Non Mahasiswa
+307;High-Potential Talent;1;0;5;4;Mahasiswa
+308;Emerging Talent;0;0;2;1;Non Mahasiswa
+309;High-Potential Talent;1;0;6;4;Non Mahasiswa
+310;Emerging Talent;0;0;2;2;Non Mahasiswa
+311;High-Potential Talent;1;0;7;3;Non Mahasiswa
+312;Job-Ready Talent;0;1;4;2;Non Mahasiswa
+313;High-Potential Talent;1;0;7;4;Mahasiswa
+314;High-Potential Talent;1;0;7;4;Mahasiswa
+315;High-Potential Talent;1;0;6;3;Mahasiswa
+316;Emerging Talent;0;0;1;4;Non Mahasiswa
+317;High-Potential Talent;1;0;7;2;Mahasiswa
+318;High-Potential Talent;1;0;6;1;Non Mahasiswa
+319;High-Potential Talent;1;0;7;2;Mahasiswa
+320;Emerging Talent;0;0;1;1;Non Mahasiswa
+321;High-Potential Talent;1;0;5;2;Mahasiswa
+322;High-Potential Talent;1;0;7;3;Non Mahasiswa
+323;High-Potential Talent;1;0;6;3;Mahasiswa
+324;High-Potential Talent;1;0;7;4;Mahasiswa
+325;High-Potential Talent;1;0;6;3;Mahasiswa
+326;High-Potential Talent;1;0;7;4;Non Mahasiswa
+327;Job-Ready Talent;0;1;4;4;Non Mahasiswa
+328;High-Potential Talent;1;0;7;4;Non Mahasiswa
+329;High-Potential Talent;1;0;5;3;Mahasiswa
+330;Job-Ready Talent;0;1;3;4;Mahasiswa
+331;High-Potential Talent;1;0;7;3;Mahasiswa
+332;Job-Ready Talent;0;1;4;2;Non Mahasiswa
+333;High-Potential Talent;1;0;7;3;Mahasiswa
+334;High-Potential Talent;1;0;7;3;Mahasiswa
+335;High-Potential Talent;1;0;7;2;Non Mahasiswa
+336;High-Potential Talent;1;0;7;3;Non Mahasiswa
+337;High-Potential Talent;1;0;7;2;Mahasiswa
+338;Job-Ready Talent;0;1;4;4;Mahasiswa
+339;High-Potential Talent;1;0;7;3;Mahasiswa
+340;High-Potential Talent;1;0;6;4;Non Mahasiswa
+341;High-Potential Talent;1;0;7;3;Mahasiswa
+342;High-Potential Talent;1;0;5;2;Non Mahasiswa
+343;High-Potential Talent;1;0;7;3;Mahasiswa
+344;High-Potential Talent;1;0;6;4;Mahasiswa
+345;High-Potential Talent;1;0;5;4;Mahasiswa
+346;High-Potential Talent;1;0;7;3;Mahasiswa
+347;Job-Ready Talent;0;1;3;4;Mahasiswa
+348;Job-Ready Talent;0;1;3;3;Non Mahasiswa
+349;High-Potential Talent;1;0;5;3;Non Mahasiswa
+350;Job-Ready Talent;0;1;3;2;Non Mahasiswa
+351;High-Potential Talent;1;0;7;2;Mahasiswa
+352;High-Potential Talent;1;0;7;4;Mahasiswa
+353;High-Potential Talent;1;0;7;1;Mahasiswa
+354;Job-Ready Talent;0;1;4;3;Non Mahasiswa
+355;High-Potential Talent;1;0;5;4;Mahasiswa
+356;High-Potential Talent;1;0;7;3;Non Mahasiswa
+357;High-Potential Talent;1;0;5;1;Mahasiswa
+358;High-Potential Talent;1;0;7;1;Non Mahasiswa
+359;High-Potential Talent;1;0;7;4;Mahasiswa
+360;High-Potential Talent;1;0;6;3;Mahasiswa
+361;High-Potential Talent;1;0;5;4;Non Mahasiswa
+362;Job-Ready Talent;0;1;3;3;Non Mahasiswa
+363;High-Potential Talent;1;0;7;4;Non Mahasiswa
+364;High-Potential Talent;1;0;6;3;Mahasiswa
+365;High-Potential Talent;1;0;7;4;Mahasiswa
+366;Job-Ready Talent;0;1;4;3;Mahasiswa
+367;High-Potential Talent;1;0;5;1;Non Mahasiswa
+368;High-Potential Talent;1;0;6;3;Mahasiswa
+369;High-Potential Talent;1;0;6;4;Non Mahasiswa
+370;High-Potential Talent;1;0;7;1;Mahasiswa
+371;Job-Ready Talent;0;1;4;2;Non Mahasiswa
+372;Emerging Talent;0;0;0;1;Non Mahasiswa
+373;Job-Ready Talent;0;1;3;3;Mahasiswa
+374;High-Potential Talent;1;0;7;3;Mahasiswa
+375;High-Potential Talent;1;0;5;2;Non Mahasiswa
+376;High-Potential Talent;1;0;6;3;Mahasiswa
+377;Job-Ready Talent;0;1;4;3;Non Mahasiswa
+378;Emerging Talent;0;0;1;3;Non Mahasiswa
+379;High-Potential Talent;1;0;5;3;Mahasiswa
+380;Job-Ready Talent;0;1;3;2;Mahasiswa
+381;Job-Ready Talent;0;1;4;2;Non Mahasiswa
+382;Emerging Talent;0;0;1;1;Non Mahasiswa
+383;High-Potential Talent;1;0;5;2;Non Mahasiswa
+384;Job-Ready Talent;0;1;3;4;Mahasiswa
+385;Job-Ready Talent;0;1;4;1;Non Mahasiswa
+386;High-Potential Talent;1;0;7;3;Mahasiswa
+387;High-Potential Talent;1;0;6;3;Mahasiswa
+388;Emerging Talent;0;0;1;2;Non Mahasiswa
+389;High-Potential Talent;1;0;7;4;Mahasiswa
+390;High-Potential Talent;1;0;7;3;Non Mahasiswa
+391;High-Potential Talent;1;0;7;3;Non Mahasiswa
+392;Job-Ready Talent;0;1;4;3;Non Mahasiswa
+393;High-Potential Talent;1;0;7;3;Mahasiswa
+394;Job-Ready Talent;0;1;4;3;Mahasiswa
+395;High-Potential Talent;1;0;7;4;Mahasiswa
+396;Job-Ready Talent;0;1;3;3;Non Mahasiswa
+397;High-Potential Talent;1;0;7;2;Mahasiswa
+398;High-Potential Talent;1;0;7;2;Non Mahasiswa
+399;High-Potential Talent;1;0;6;3;Mahasiswa
+400;High-Potential Talent;1;0;7;3;Mahasiswa
+401;Emerging Talent;0;0;1;1;Non Mahasiswa
+402;High-Potential Talent;1;0;7;4;Mahasiswa
+403;High-Potential Talent;1;0;7;3;Mahasiswa
+404;High-Potential Talent;1;0;7;1;Non Mahasiswa
+405;Job-Ready Talent;0;1;4;3;Mahasiswa
+406;Job-Ready Talent;0;1;3;2;Non Mahasiswa
+407;High-Potential Talent;1;0;6;4;Non Mahasiswa
+408;Job-Ready Talent;0;1;3;3;Mahasiswa
+409;High-Potential Talent;1;0;7;3;Mahasiswa
+410;High-Potential Talent;1;0;7;3;Mahasiswa
+411;High-Potential Talent;1;0;7;3;Mahasiswa
+412;High-Potential Talent;1;0;7;3;Mahasiswa
+413;Job-Ready Talent;0;1;4;3;Non Mahasiswa
+414;High-Potential Talent;1;0;6;2;Mahasiswa
+415;Emerging Talent;0;0;2;2;Mahasiswa
+416;High-Potential Talent;1;0;5;3;Mahasiswa
+417;High-Potential Talent;1;0;7;2;Mahasiswa
+418;High-Potential Talent;1;0;7;1;Mahasiswa
+419;High-Potential Talent;1;0;5;3;Mahasiswa
+420;Job-Ready Talent;0;1;4;1;Non Mahasiswa
+421;High-Potential Talent;1;0;7;3;Mahasiswa
+422;High-Potential Talent;1;0;7;3;Non Mahasiswa
+423;Job-Ready Talent;0;1;4;2;Non Mahasiswa
+424;Job-Ready Talent;0;1;4;3;Mahasiswa
+425;High-Potential Talent;1;0;7;3;Non Mahasiswa
+426;High-Potential Talent;1;0;7;2;Non Mahasiswa
+427;High-Potential Talent;1;0;5;4;Mahasiswa
+428;Emerging Talent;0;0;1;3;Mahasiswa
+429;High-Potential Talent;1;0;5;4;Non Mahasiswa
+430;Emerging Talent;0;0;2;3;Mahasiswa
+431;High-Potential Talent;1;0;7;4;Non Mahasiswa
+432;High-Potential Talent;1;0;7;1;Non Mahasiswa
+433;High-Potential Talent;1;0;5;4;Non Mahasiswa
+434;High-Potential Talent;1;0;5;2;Mahasiswa
+435;Job-Ready Talent;0;1;3;2;Mahasiswa
+436;Job-Ready Talent;0;1;4;2;Non Mahasiswa
+437;High-Potential Talent;1;0;7;4;Mahasiswa
+438;High-Potential Talent;1;0;7;3;Mahasiswa
+439;High-Potential Talent;1;0;5;3;Non Mahasiswa
+440;Job-Ready Talent;0;1;4;3;Mahasiswa
+441;High-Potential Talent;1;0;7;2;Non Mahasiswa
+442;High-Potential Talent;1;0;7;3;Non Mahasiswa
+443;High-Potential Talent;1;0;7;4;Mahasiswa
+444;Emerging Talent;0;0;2;2;Mahasiswa
+445;High-Potential Talent;1;0;7;4;Mahasiswa
+446;High-Potential Talent;1;0;7;3;Mahasiswa
+447;High-Potential Talent;1;0;6;3;Non Mahasiswa
+448;High-Potential Talent;1;0;7;4;Mahasiswa
+449;Job-Ready Talent;0;1;3;1;Non Mahasiswa
+450;High-Potential Talent;1;0;7;3;Mahasiswa
+451;Job-Ready Talent;0;1;3;3;Non Mahasiswa
+452;High-Potential Talent;1;0;7;4;Mahasiswa
+453;High-Potential Talent;1;0;7;3;Mahasiswa
+454;Emerging Talent;0;0;2;3;Mahasiswa
+455;High-Potential Talent;1;0;7;3;Mahasiswa
+456;High-Potential Talent;1;0;6;3;Mahasiswa
+457;Job-Ready Talent;0;1;4;4;Non Mahasiswa
+458;High-Potential Talent;1;0;7;4;Mahasiswa
+459;High-Potential Talent;1;0;6;3;Non Mahasiswa
+460;Emerging Talent;0;0;0;4;Mahasiswa
+461;High-Potential Talent;1;0;5;3;Mahasiswa
+462;High-Potential Talent;1;0;7;3;Mahasiswa
+463;Job-Ready Talent;0;1;4;2;Mahasiswa
+464;Job-Ready Talent;0;1;4;4;Mahasiswa
+465;High-Potential Talent;1;0;6;1;Mahasiswa
+466;Job-Ready Talent;0;1;3;2;Mahasiswa
+467;Emerging Talent;0;0;2;2;Non Mahasiswa
+468;High-Potential Talent;1;0;7;4;Mahasiswa
+469;High-Potential Talent;1;0;7;3;Mahasiswa
+470;High-Potential Talent;1;0;7;4;Mahasiswa
+471;Job-Ready Talent;0;1;4;4;Mahasiswa
+472;High-Potential Talent;1;0;7;3;Mahasiswa
+473;High-Potential Talent;1;0;7;3;Mahasiswa
+474;High-Potential Talent;1;0;7;4;Mahasiswa
+475;High-Potential Talent;1;0;6;4;Non Mahasiswa
+476;High-Potential Talent;1;0;7;3;Non Mahasiswa
+477;High-Potential Talent;1;0;7;3;Mahasiswa
+478;High-Potential Talent;1;0;6;1;Mahasiswa
+479;High-Potential Talent;1;0;6;2;Non Mahasiswa
+480;Job-Ready Talent;0;1;4;1;Mahasiswa
+481;Job-Ready Talent;0;1;4;3;Mahasiswa
+482;High-Potential Talent;1;0;5;3;Mahasiswa
+483;Emerging Talent;0;0;1;1;Mahasiswa
+484;Job-Ready Talent;0;1;3;2;Mahasiswa
+485;High-Potential Talent;1;0;5;3;Mahasiswa
+486;Job-Ready Talent;0;1;4;2;Mahasiswa
+487;Job-Ready Talent;0;1;3;3;Non Mahasiswa
+488;Job-Ready Talent;0;1;4;2;Non Mahasiswa
+489;Job-Ready Talent;0;1;4;1;Non Mahasiswa
+490;High-Potential Talent;1;0;7;4;Non Mahasiswa
+491;High-Potential Talent;1;0;7;4;Non Mahasiswa
+492;Emerging Talent;0;0;2;2;Mahasiswa
+493;Job-Ready Talent;0;1;3;1;Non Mahasiswa
+494;Emerging Talent;0;0;2;2;Non Mahasiswa
+495;Job-Ready Talent;0;1;3;2;Non Mahasiswa
+496;High-Potential Talent;1;0;7;3;Mahasiswa
+497;High-Potential Talent;1;0;7;3;Mahasiswa
+498;Job-Ready Talent;0;1;4;2;Non Mahasiswa
+499;High-Potential Talent;1;0;7;4;Non Mahasiswa
+500;High-Potential Talent;1;0;5;3;Non Mahasiswa
+501;Job-Ready Talent;0;1;4;4;Mahasiswa
+502;High-Potential Talent;1;0;7;2;Mahasiswa
+503;High-Potential Talent;1;0;5;2;Mahasiswa
+504;High-Potential Talent;1;0;7;1;Non Mahasiswa
+505;High-Potential Talent;1;0;5;3;Non Mahasiswa
+506;High-Potential Talent;1;0;7;3;Mahasiswa
+507;High-Potential Talent;1;0;5;3;Mahasiswa
+508;Emerging Talent;0;0;2;4;Mahasiswa
+509;High-Potential Talent;1;0;5;4;Mahasiswa
+510;High-Potential Talent;1;0;7;4;Mahasiswa
+511;High-Potential Talent;1;0;7;3;Mahasiswa
+512;Emerging Talent;0;0;2;3;Mahasiswa
+513;High-Potential Talent;1;0;5;3;Mahasiswa
+514;High-Potential Talent;1;0;7;3;Mahasiswa
+515;High-Potential Talent;1;0;7;2;Mahasiswa
+516;Job-Ready Talent;0;1;4;2;Mahasiswa
+517;High-Potential Talent;1;0;7;2;Mahasiswa
+518;Job-Ready Talent;0;1;4;2;Mahasiswa
+519;High-Potential Talent;1;0;7;4;Non Mahasiswa
+520;Job-Ready Talent;0;1;4;3;Mahasiswa
+521;High-Potential Talent;1;0;7;3;Non Mahasiswa
+522;High-Potential Talent;1;0;7;3;Mahasiswa
+523;High-Potential Talent;1;0;7;2;Non Mahasiswa
+524;High-Potential Talent;1;0;7;4;Mahasiswa
+525;Job-Ready Talent;0;1;3;2;Non Mahasiswa
+526;High-Potential Talent;1;0;7;3;Non Mahasiswa
+527;High-Potential Talent;1;0;7;3;Non Mahasiswa
+528;Job-Ready Talent;0;1;3;2;Mahasiswa
+529;High-Potential Talent;1;0;7;2;Mahasiswa
+530;High-Potential Talent;1;0;6;4;Mahasiswa
+531;Job-Ready Talent;0;1;4;4;Non Mahasiswa
+532;High-Potential Talent;1;0;7;4;Non Mahasiswa
+533;Job-Ready Talent;0;1;3;3;Mahasiswa
+534;Job-Ready Talent;0;1;4;4;Mahasiswa
+535;High-Potential Talent;1;0;5;4;Mahasiswa
+536;Emerging Talent;0;0;2;4;Non Mahasiswa
+537;High-Potential Talent;1;0;7;2;Non Mahasiswa
+538;High-Potential Talent;1;0;7;3;Mahasiswa
+539;Job-Ready Talent;0;1;3;3;Mahasiswa
+540;High-Potential Talent;1;0;7;4;Non Mahasiswa
+541;High-Potential Talent;1;0;7;4;Non Mahasiswa
+542;High-Potential Talent;1;0;7;2;Non Mahasiswa
+543;Job-Ready Talent;0;1;4;4;Mahasiswa
+544;High-Potential Talent;1;0;5;4;Mahasiswa
+545;High-Potential Talent;1;0;5;2;Non Mahasiswa
+546;High-Potential Talent;1;0;7;2;Non Mahasiswa
+547;High-Potential Talent;1;0;7;2;Mahasiswa
+548;High-Potential Talent;1;0;7;4;Mahasiswa
+549;High-Potential Talent;1;0;6;2;Mahasiswa
+550;Job-Ready Talent;0;1;4;2;Mahasiswa
+551;High-Potential Talent;1;0;6;3;Non Mahasiswa
+552;Job-Ready Talent;0;1;4;1;Non Mahasiswa
+553;High-Potential Talent;1;0;7;3;Mahasiswa
+554;High-Potential Talent;1;0;7;3;Mahasiswa
+555;High-Potential Talent;1;0;6;4;Non Mahasiswa
+556;High-Potential Talent;1;0;7;4;Mahasiswa
+557;High-Potential Talent;1;0;7;4;Mahasiswa
+558;High-Potential Talent;1;0;7;3;Mahasiswa
+559;Job-Ready Talent;0;1;3;3;Non Mahasiswa
+560;High-Potential Talent;1;0;7;3;Mahasiswa
+561;Job-Ready Talent;0;1;4;2;Non Mahasiswa
+562;Emerging Talent;0;0;1;3;Non Mahasiswa
+563;Job-Ready Talent;0;1;3;3;Mahasiswa
+564;Job-Ready Talent;0;1;4;3;Mahasiswa
+565;High-Potential Talent;1;0;6;3;Non Mahasiswa
+566;High-Potential Talent;1;0;7;1;Non Mahasiswa
+567;High-Potential Talent;1;0;7;2;Mahasiswa
+568;Job-Ready Talent;0;1;3;4;Mahasiswa
+569;High-Potential Talent;1;0;5;3;Non Mahasiswa
+570;High-Potential Talent;1;0;7;4;Non Mahasiswa
+571;Job-Ready Talent;0;1;4;3;Non Mahasiswa
+572;Job-Ready Talent;0;1;3;3;Non Mahasiswa
+573;High-Potential Talent;1;0;6;4;Mahasiswa
+574;Job-Ready Talent;0;1;4;4;Non Mahasiswa
+575;High-Potential Talent;1;0;7;2;Non Mahasiswa
+576;High-Potential Talent;1;0;5;2;Non Mahasiswa
+577;Job-Ready Talent;0;1;4;3;Mahasiswa
+578;High-Potential Talent;1;0;5;4;Mahasiswa
+579;Emerging Talent;0;0;1;1;Non Mahasiswa
+580;High-Potential Talent;1;0;6;4;Non Mahasiswa
+581;Emerging Talent;0;0;2;2;Non Mahasiswa
+582;Job-Ready Talent;0;1;4;2;Mahasiswa
+583;Job-Ready Talent;0;1;4;4;Mahasiswa
+584;Job-Ready Talent;0;1;3;2;Mahasiswa
+585;High-Potential Talent;1;0;7;2;Non Mahasiswa
+586;High-Potential Talent;1;0;7;4;Mahasiswa
+587;Job-Ready Talent;0;1;4;3;Mahasiswa
+588;High-Potential Talent;1;0;6;2;Mahasiswa
+589;High-Potential Talent;1;0;7;4;Mahasiswa
+590;Job-Ready Talent;0;1;4;4;Non Mahasiswa
+591;High-Potential Talent;1;0;5;2;Mahasiswa
+592;High-Potential Talent;1;0;7;4;Mahasiswa
+593;High-Potential Talent;1;0;7;4;Mahasiswa
+594;Job-Ready Talent;0;1;4;4;Mahasiswa
+595;Emerging Talent;0;0;1;1;Mahasiswa
+596;High-Potential Talent;1;0;7;4;Mahasiswa
+597;High-Potential Talent;1;0;5;3;Non Mahasiswa
+598;High-Potential Talent;1;0;7;4;Mahasiswa
+599;High-Potential Talent;1;0;6;2;Non Mahasiswa
+600;High-Potential Talent;1;0;7;4;Non Mahasiswa
+601;High-Potential Talent;1;0;7;4;Mahasiswa
+602;High-Potential Talent;1;0;5;2;Non Mahasiswa
+603;High-Potential Talent;1;0;7;4;Mahasiswa
+604;High-Potential Talent;1;0;5;2;Mahasiswa
+605;High-Potential Talent;1;0;7;2;Mahasiswa
+606;High-Potential Talent;1;0;7;3;Mahasiswa
+607;High-Potential Talent;1;0;7;3;Non Mahasiswa
+608;High-Potential Talent;1;0;5;4;Non Mahasiswa
+609;High-Potential Talent;1;0;6;3;Mahasiswa
+610;Job-Ready Talent;0;1;4;3;Non Mahasiswa
+611;High-Potential Talent;1;0;6;1;Mahasiswa
+612;High-Potential Talent;1;0;7;2;Non Mahasiswa
+613;High-Potential Talent;1;0;7;4;Non Mahasiswa
+614;High-Potential Talent;1;0;7;4;Non Mahasiswa
+615;High-Potential Talent;1;0;7;2;Non Mahasiswa
+616;High-Potential Talent;1;0;7;3;Mahasiswa
+617;High-Potential Talent;1;0;5;3;Mahasiswa
+618;Emerging Talent;0;0;2;1;Non Mahasiswa
+619;Job-Ready Talent;0;1;4;4;Non Mahasiswa
+620;Job-Ready Talent;0;1;4;4;Non Mahasiswa
+621;High-Potential Talent;1;0;5;4;Non Mahasiswa
+622;Job-Ready Talent;0;1;3;4;Non Mahasiswa
+623;High-Potential Talent;1;0;7;1;Mahasiswa
+624;Emerging Talent;0;0;0;1;Mahasiswa
+625;High-Potential Talent;1;0;7;1;Non Mahasiswa
+626;Job-Ready Talent;0;1;3;3;Non Mahasiswa
+627;Job-Ready Talent;0;1;4;2;Non Mahasiswa
+628;High-Potential Talent;1;0;7;3;Mahasiswa
+629;Job-Ready Talent;0;1;3;2;Mahasiswa
+630;High-Potential Talent;1;0;7;4;Non Mahasiswa
+631;High-Potential Talent;1;0;7;3;Non Mahasiswa
+632;High-Potential Talent;1;0;7;4;Mahasiswa
+633;High-Potential Talent;1;0;7;3;Mahasiswa
+634;High-Potential Talent;1;0;7;2;Non Mahasiswa
+635;High-Potential Talent;1;0;5;3;Non Mahasiswa
+636;High-Potential Talent;1;0;7;4;Mahasiswa
+637;Emerging Talent;0;0;1;1;Mahasiswa
+638;Job-Ready Talent;0;1;4;2;Mahasiswa
+639;Job-Ready Talent;0;1;4;3;Non Mahasiswa
+640;High-Potential Talent;1;0;7;4;Non Mahasiswa
+641;High-Potential Talent;1;0;7;4;Non Mahasiswa
+642;High-Potential Talent;1;0;6;1;Mahasiswa
+643;Job-Ready Talent;0;1;4;3;Non Mahasiswa
+644;Job-Ready Talent;0;1;3;1;Mahasiswa
+645;Job-Ready Talent;0;1;4;4;Mahasiswa
+646;Job-Ready Talent;0;1;4;4;Mahasiswa
+647;Job-Ready Talent;0;1;4;4;Mahasiswa
+648;High-Potential Talent;1;0;6;4;Mahasiswa
+649;High-Potential Talent;1;0;6;2;Mahasiswa
+650;High-Potential Talent;1;0;6;2;Non Mahasiswa
+651;High-Potential Talent;1;0;7;3;Non Mahasiswa
+652;High-Potential Talent;1;0;7;4;Non Mahasiswa
+653;High-Potential Talent;1;0;7;4;Mahasiswa
+654;High-Potential Talent;1;0;7;3;Non Mahasiswa
+655;High-Potential Talent;1;0;6;4;Non Mahasiswa
+656;High-Potential Talent;1;0;7;4;Mahasiswa
+657;High-Potential Talent;1;0;7;2;Non Mahasiswa
+658;High-Potential Talent;1;0;5;2;Mahasiswa
+659;High-Potential Talent;1;0;7;3;Mahasiswa
+660;Emerging Talent;0;0;2;4;Mahasiswa
+661;High-Potential Talent;1;0;7;4;Non Mahasiswa
+662;Job-Ready Talent;0;1;3;4;Non Mahasiswa
+663;Job-Ready Talent;0;1;4;4;Mahasiswa
+664;Job-Ready Talent;0;1;4;3;Mahasiswa
+665;Emerging Talent;0;0;1;2;Mahasiswa
+666;Emerging Talent;0;0;2;1;Mahasiswa
+667;Job-Ready Talent;0;1;4;1;Mahasiswa
+668;High-Potential Talent;1;0;6;4;Mahasiswa
+669;Job-Ready Talent;0;1;3;2;Non Mahasiswa
+670;High-Potential Talent;1;0;6;1;Non Mahasiswa
+671;Job-Ready Talent;0;1;3;4;Mahasiswa
+672;Job-Ready Talent;0;1;4;3;Non Mahasiswa
+673;High-Potential Talent;1;0;7;3;Mahasiswa
+674;Job-Ready Talent;0;1;3;1;Non Mahasiswa
+675;Emerging Talent;0;0;1;1;Non Mahasiswa
+676;Emerging Talent;0;0;2;2;Non Mahasiswa
+677;Job-Ready Talent;0;1;4;2;Mahasiswa
+678;High-Potential Talent;1;0;5;3;Non Mahasiswa
+679;Job-Ready Talent;0;1;4;1;Non Mahasiswa
+680;Emerging Talent;0;0;2;2;Mahasiswa
+681;High-Potential Talent;1;0;7;3;Mahasiswa
