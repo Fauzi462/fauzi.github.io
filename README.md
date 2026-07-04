@@ -38,9 +38,9 @@ Seara Talent Hub aims to build a sustainable talent pipeline to support future w
 
 \- 90.3% of candidates are classified as either Job-Ready Talent or High-Potential Talent, indicating strong workforce readiness.
 
-!\[Time to Hire Analysis](dashboard/Screenshot-181.PNG)
+!\[Time to Hire Analysis](dashboard/Screenshot-181.png)
 
-!\[Time to Hire Analysis](dashboard/Screenshot-182.PNG)
+!\[Time to Hire Analysis](dashboard/Screenshot-182.png)
 
 
 
